@@ -24,17 +24,23 @@
   <h2> Where do I come from? </h2>
 </div>
 
-- 🇧🇷 I am from Brazil
-- 🇸🇪 Studied my Master in Sweden
-- 🇲🇽 Lived 5 years in Mexico
-- 🇪🇸 Now I am reinventing myself in Spain
+- 🇧🇷 I am from Brazil;
+- 🇸🇪 Studied my Master in Maritime 🚢 Affairs  in Sweden;
+- 🇲🇽 Worked for 5 years in Mexico;
+- 🇪🇸 Now I am reinventing myself in Spain.
  
 <div align="center"> 
   <h2> Ok, but what am I doing here? </h2>
 </div>
 
-- 🌱 I’m currently exploring an old hobby of mine... PROGRAMMING
-- 💭 I’m looking for an opportunity for a CAREER CHANGE
+- 💭 Short answer: I’m looking for an opportunity for a career change.
+
+- 🌱 I’m currently exploring an old hobby of mine... PROGRAMMING! But baby steps, I am doing it little by little, trying different languages and tools, learning new things on the go.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bess-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bess-hub&theme=python-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <br>
 <div align="center"> 
   <h2> If you want to reach me... </h2>
