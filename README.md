@@ -43,7 +43,7 @@
 
 <br>
 <div align="center"> 
-  <h2> If you want to reach me... </h2>
+  <h2> If you want to reach out me... </h2>
 </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/bessemhamud/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn " width="40" height="40"/></a>&nbsp;
