@@ -49,4 +49,12 @@
 <a href="https://www.linkedin.com/in/bessemhamud/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn " width="40" height="40"/></a>&nbsp;
 <a href="https://twitter.com/BessHamud"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/></a>&nbsp;
 </div>
+<br/>
+<table align="center"><tbody><tr>
+<td><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L222"><code>PT</code></a> - Português<br/><br/><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L222"><img src="https://progress-bar.dev/100" alt="Português (Brasil) 100%"></a></td>
+<td><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L33"><code>En</code></a> - English<br/><br/><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L33"><img src="https://progress-bar.dev/100" alt="English 100%"></a></td>
+<td><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L91"><code>Es</code></a> - Español<br/><br/><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L91"><img src="https://progress-bar.dev/90" alt="Español 90%"></a></td></tr></tbody></table>  
+  
+
+
 <br>
