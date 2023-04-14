@@ -34,7 +34,7 @@
 </div>
 
 - 🌱 I’m currently exploring an old hobby of mine... PROGRAMMING
-- 💭 I’m looking for a CAREER CHANGE.
+- 💭 I’m looking for an opportunity for a CAREER CHANGE
 <br>
 <div align="center"> 
   <h2> If you want to reach me... </h2>
