@@ -51,9 +51,9 @@
 </div>
 <br/>
 <table align="center"><tbody><tr>
-<td><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L222"><code>PT</code></a> - Português<br/><br/><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L222"><img src="https://progress-bar.dev/100" alt="Português (Brasil) 100%"></a></td>
-<td><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L33"><code>En</code></a> - English<br/><br/><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L33"><img src="https://progress-bar.dev/100" alt="English 100%"></a></td>
-<td><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L91"><code>Es</code></a> - Español<br/><br/><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L91"><img src="https://progress-bar.dev/90" alt="Español 90%"></a></td></tr></tbody></table>  
+<td align="center"><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L222"><code>PT</code></a><br/><br/><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L222"><img src="https://progress-bar.dev/100" alt="Português (Brasil) 100%"></a></td>
+<td align="center"><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L33"><code>En</code></a><br/><br/><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L33"><img src="https://progress-bar.dev/100" alt="English 100%"></a></td>
+<td align="center"><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L91"><code>Es</code></a><br/><br/><a href="https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/src/translations.php#L91"><img src="https://progress-bar.dev/90" alt="Español 90%"></a></td></tr></tbody></table>  
   
 
 
