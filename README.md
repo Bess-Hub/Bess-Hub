@@ -30,7 +30,7 @@
   <h2> Ok, but what am I doing here? </h2>
 </div>
 
-- 💭 Short answer: I’m looking for a professional opportunity.
+- 💭 Short answer: Applying a hobby of mine to things I like
 
 - 🌱 I’m currently exploring an old hobby of mine... PROGRAMMING! But baby steps, I am doing it little by little, trying different languages and tools, learning new things on the go.
 
